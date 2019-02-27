@@ -1,0 +1,79 @@
+{
+    "id": 1,
+    "name": "Clinical Research trial For Drug 1",
+    "description": "Clinical Research trial For Drug 1",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Before taking suggested drug, What were the symptions?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Burning Eyes",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Short Term MemoryLoss",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Pain In Limbs",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "On Consumption of Drug 1, What additional effects do you see on your body?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1011,
+                    "name": "Consipation",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1011,
+                    "name": "Not hungry",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1011,
+                    "name": "HeartBurn",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1011,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}

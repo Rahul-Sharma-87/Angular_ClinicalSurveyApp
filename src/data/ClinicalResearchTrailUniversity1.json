@@ -1,0 +1,151 @@
+{
+    "id": 1,
+    "name": "Clinical Research trial of Meditation",
+    "description": "Clinical Research trial For Meditation effects",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Behaviour attributes - Before performing Vipassana meditation?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Depression",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Lack Of Concentration",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Lack Of Interest",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Physical Attributes- Before performing Vipassana meditation?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1011,
+                    "name": "Lack of Sleep",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1011,
+                    "name": "Bad Posture",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1011,
+                    "name": "Hair fall",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1011,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Behavioural attributes- After Week 2 of Vipassana meditation?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1063,
+                    "questionId": 1012,
+                    "name": "Uneasiness",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1064,
+                    "questionId": 1012,
+                    "name": "Lack Of Concentration",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1065,
+                    "questionId": 1012,
+                    "name": "Lack Of Interest",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1066,
+                    "questionId": 1012,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "Physical Attributes- After Week 2 of Vipassana meditation?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1059,
+                    "questionId": 1013,
+                    "name": "Better Sleep",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1060,
+                    "questionId": 1013,
+                    "name": "Better Posture",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1061,
+                    "questionId": 1013,
+                    "name": "Lack of Hair fall",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1062,
+                    "questionId": 1013,
+                    "name": "None of these",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}
