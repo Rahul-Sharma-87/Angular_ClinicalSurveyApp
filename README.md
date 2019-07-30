@@ -1,2 +1,2 @@
-# ng2-Survey
-A general purpose Survey application to conduct survey based on questionnaire set for clinical trials
+# Angular Survey app
+A general purpose Survey demo application to conduct survey based on questionnaire set for clinical trials
